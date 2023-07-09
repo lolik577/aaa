@@ -1,3 +1,4 @@
+git checkout
 testin apdate
 an test
 12345
